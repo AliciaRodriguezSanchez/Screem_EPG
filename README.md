@@ -12,5 +12,6 @@ Install aplication:
         - Front port: 3000
         - Back port 1337
 
-    I have done some small test these can be seen by launching the command in the folder of /client : npm run test  
+    I have done some small test these can be seen by launching:
+        folder of /client : npm run test  
         
