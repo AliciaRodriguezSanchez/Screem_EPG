@@ -14,7 +14,7 @@ export default createUseStyles((theme) => ({
         '& video':{
             width:'100%',
             height:'auto',
-        }
+        },
     },
     
     actions:{
@@ -22,7 +22,7 @@ export default createUseStyles((theme) => ({
       color: 'white',
       display: 'flex',
       transform: 'translate(0,0)',
-      transition:'0.3s',
+      transition:'0.4s',
       zIndex:2,
       '& button':{
         backgroundColor: 'transparent',
